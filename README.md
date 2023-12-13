@@ -8,8 +8,8 @@ This repository contains the code, dataset, images and materials for the researc
 - **Sandeep R** [📧](mailto:sandur43@gmail.com )[👥](https://www.linkedin.com/in/sandeep-rajakrishnan-87667111b/)
 - **Sudhay S** [📧](mailto:sudhay2001@gmail.com)[🔗](https://sudhay.wordpress.com/)[👥](https://www.linkedin.com/in/sudhay/)
 - **Dharaneish V C** [📧](mailto:dharaneishvc@gmail.com)[🔗](https://dharaneishvc.github.io/portfolio/)[👥](https://www.linkedin.com/in/dharaneishvc/)
-- **Senthil Kumar T (Professor, Guide)** [📧](mailto:t_senthilkumar@cb.amrita.edu)[🔗](https://www.amrita.edu/faculty/t-senthilkumar/)
-- **Sulakshan Vajipayajula**  [📧](mailto:svajipay@in.ibm.com)
+- **Senthil Kumar T** (Professor, Guide) [📧](mailto:t_senthilkumar@cb.amrita.edu)[🔗](https://www.amrita.edu/faculty/t-senthilkumar/)
+- **Sulakshan Vajipayajula** (Architect- CTO Office, IBM Security, Bangalore) [📧](mailto:svajipay@in.ibm.com)
   
 ### Affiliation
 Department of Computer Science and Engineering, Amrita School of Engineering, Coimbatore, [Amrita Vishwa Vidyapeetham](https://amrita.edu), India.
