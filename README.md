@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code, dataset, images and materials for the research project titled "[Enhanced IoT Botnet Threat Detection using Machine Learning and Neural Networks]()," published in IEEE Xplore. This paper is presented in the [Conference 2023]() held on August 2023 in IIT Delhi.
+This repository contains the code, dataset, images and materials for the research project titled "[Enhanced IoT Botnet Threat Detection using Machine Learning and Neural Networks]()," published in IEEE Xplore. This paper is presented in the [Conference 2023]() held on MONTH 20XX in XYZ INSTITUTE.
 
 ## Authors
 - **Sandeep R** [📧](mailto:sandur43@gmail.com )[👥](https://www.linkedin.com/in/sandeep-rajakrishnan-87667111b/)
