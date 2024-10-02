@@ -43,7 +43,7 @@ To replicate the experiments and results presented in the paper, run all the cel
 
 ## How to Cite
 
-If you find this work useful in your research, please cite our paper:
+If you find this work useful in your research, please cite our paper: https://doi.org/10.1109/ICICT60155.2024.10544628
 
 
 ## License
