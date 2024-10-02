@@ -12,7 +12,9 @@ This repository contains the code, dataset, images and materials for the researc
 - **Sulakshan Vajipayajula** (Architect- CTO Office, IBM Security, Bangalore) [📧](mailto:svajipay@in.ibm.com)
   
 ### Affiliation
-Department of Computer Science and Engineering, Amrita School of Engineering, Coimbatore, [Amrita Vishwa Vidyapeetham](https://amrita.edu), India.
+Department of Computer Science and Engineering,
+Amrita School of Engineering, Coimbatore,
+[Amrita Vishwa Vidyapeetham](https://amrita.edu), India.
 
 ## Abstract
 
